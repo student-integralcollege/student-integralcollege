@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning DSA and web development
 - 💞️ I’m looking to collaborate on open source
-- 📫 you can reach me on linkedin by just typing my name 
+- 📫 you can reach out to me on linkedin by just typing my name 
 - 😄 Pronouns: he/him
 - 
 <!---
